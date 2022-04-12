@@ -1,6 +1,4 @@
-### Hey! I'm Italo Matheus, Welcome to my repository.👋
-
-💡 Estudando JAVA.
+### Ei! Sou Italo Matheus, Bem vindo ao meu repositório.👋
 
 
 <div align="center">
